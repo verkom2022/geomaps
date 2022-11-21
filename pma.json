@@ -1,14 +1,26 @@
 [
   {
-    "key": "PMABRA",
-    "latitude": -22.661667,
-    "longitude": -50.418417,
-    "name": "PMA CFTV Bradesco"
+    "key": "PMABRAFIXA",
+    "latitude": -22.661689,
+    "longitude": -50.418360,
+    "name": "PMA CAM BRADESCO FIXA"
   },
   {
-    "key": "PMACEF",
+    "key": "PMABRAPTZ",
+    "latitude": -22.661667,
+    "longitude": -50.418417,
+    "name": "PMA CAM BRADESCO PTZ"
+  },
+  {
+    "key": "PMACEFFIXA",
     "latitude": -22.663268,
     "longitude": -50.418417,
-    "name": "PMA CFTV Caixa Federal"
+    "name": "PMA CAM CEF FIXA" 
+  },
+  {
+    "key": "PMACEFFIXAPTZ",
+    "latitude": -22.663289,
+    "longitude": -50.418521,
+    "name": "PMA CAM CEF FIXA" 
   }
 ]
