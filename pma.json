@@ -18,9 +18,34 @@
     "name": "PMA CAM CEF FIXA" 
   },
   {
-    "key": "PMACEFFIXAPTZ",
+    "key": "PMACEFPTZ",
     "latitude": -22.663291,
     "longitude": -50.418387,
     "name": "PMA CAM CEF FIXA" 
+  },
+  {
+    "key": "PMARotPACAEMBUFIXA", 
+    "latitude": -22.665862,
+    "longitude": -50.448990,
+    "name": "PMA CAM rotatoria PACAEMBU FIXA" 
+  },
+  {
+    "key": "PMARotPACAEMBUPTZ",
+    "latitude": -22.665897,
+    "longitude": -50.449081,
+    "name": "PMA CAM rotatoria PACAEMBU FIXA" 
+  },
+  {
+    "key": "PMAATACADAOFIXA",
+    "latitude": -22.666933,
+    "longitude": -50.408475,
+    "name": "PMA CAM ATACADAO FIXA" 
+  },
+  {
+    "key": "PMAATACADAOPTZ",
+    "latitude": -22.666990,
+    "longitude": -50.408461,
+    "name": "PMA CAM ATACADAO FIXA" 
   }
+  
 ]
