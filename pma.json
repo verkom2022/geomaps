@@ -199,56 +199,56 @@
     },
     {
       "key": "PMACAMDOMANTONIOSAIDAUNESPFIXA",
-      "latitude": -22.646928
-      "longitude": -50.437700
+      "latitude": -22.646928,
+      "longitude": -50.437700,
       "name": "PMA CAM DOM ANTONIO SAIDA UNESP FIXA"
     },
     {
       "key": "PMACAMDOMANTONIOSAIDAUNESPPTZ",
-      "latitude": -22.646998
-      "longitude": -50.437723
+      "latitude": -22.646998,
+      "longitude": -50.437723,
       "name": "PMA CAM DOM ANTONIO SAIDA UNESP PTZ"
     },
     {
       "key": "PMACAMROTATORIAAMIGAOFIXA",
-      "latitude": -22.652633
-      "longitude": -50.392297
+      "latitude": -22.652633,
+      "longitude": -50.392297,
       "name": "PMA CAM ROTATORIA AMIGAO FIXA"
     },
     {
       "key": "PMACAMRODOVIARIAPROXFEMAFIXA",
-      "latitude": -22.643813
-      "longitude": -50.418664
+      "latitude": -22.643813,
+      "longitude": -50.418664,
       "name": "PMA CAM RODOVIARIA PROX FEMA FIXA"
     },
     {
       "key": "PMACAMRODOVIARIAPROXFEMAPTZ",
-      "latitude": -22.643899
-      "longitude": -50.418650
+      "latitude": -22.643899,
+      "longitude": -50.418650,
       "name": "PMA CAM RODOVIARIA PROX FEMA PTZ"
     },
     {
       "key": "PMACAMROTSAIDACANDIDOMOTAFIXA",
-      "latitude": -22.671679
+      "latitude": -22.671679,
       "longitude": -50.416160
       "name": "PMA CAM ROT SAIDA CANDIDO MOTA FIXA"
     },
     {
       "key": "PMACAMROTSAIDACANDIDOMOTAPTZ",
-      "latitude": -22.671622
-      "longitude": -50.416193
+      "latitude": -22.671622,
+      "longitude": -50.416193,
       "name": "PMA CAM ROT SAIDA CANDIDO MOTA PTZ"
     },
     {
       "key": "PMACAMUSINARECICLAGEMFIXA",
-      "latitude": -22.681257
-      "longitude": -50.413120
+      "latitude": -22.681257,
+      "longitude": -50.413120,
       "name": "PMA CAM USINA RECICLAGEM FIXA"
     },
     {
       "key": "PMACAMUSINARECICLAGEMFIXA",
-      "latitude": -22.681388
-      "longitude": -50.413089
+      "latitude": -22.681388,
+      "longitude": -50.413089,
       "name": "PMA CAM USINA RECICLAGEM FIXA"
     }
 ]
