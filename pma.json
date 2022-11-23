@@ -46,155 +46,154 @@
       "latitude": -22.666990,
       "longitude": -50.408461,
       "name": "PMA CAM ATACADAO FIXA" 
+    },    {
+      "key": "PMACAMSEMAFOROCATEDRAL",
+      "latitude": -22.661607,
+      "longitude": -50.413050,
+      "name": "PMA  CAM SEMAFORO CATEDRAL"
     },
-     {
-    "key": "PMACAMSEMAFOROCATEDRAL",
-    "latitude": -22.661607,
-    "longitude": -50.413050,
-    "name": "PMA  CAM SEMAFORO CATEDRAL"
-  },
-  {
-    "key": "PMACAMFRENTELIMPPUBLICAFIXA",
-    "latitude": -22.663340,
-    "longitude": -50.424275,
-    "name": "PMA CAM FRENTE LIMP PUBLICA FIXA"
-  },
-  {
-    "key": "PMACAMFRENTELIMPPUBLICAPTZ",
-    "latitude": -22.663341,
-    "longitude": -50.424263,
-    "name": "PMA CAM FRENTE LIMP PUBLICA PTZ"
-  },
-  {
-    "key": "PMACAMTREVOPREDIOPAULINHOPTZ",
-    "latitude": -22.674199,
-    "longitude": -50.432213,
-    "name": "PMA CAM TREVO PREDIO PAULINHO PTZ"
-  },
-  {
-    "key": "PMACAMTREVOPREDIOPAULINHOFIXA",
-    "latitude": -22.674274,
-    "longitude": -50.432256,
-    "name": "PMA CAM TREVO PREDIO PAULINHO FIXA"
-  },
-  {
-    "key": "PMACAMCAPELACOLINASFIXA",
-    "latitude": -22.678804,
-    "longitude": -50.433378,
-    "name": "PMA CAM CAPELA COLINAS FIXA"
-  },
-  {
-    "key": "PMACAMCAPELACOLINASPTZ",
-    "latitude": -22.678975,
-    "longitude": -50.433247,
-    "name": "PMA CAM CAPELA COLINAS PTZ"
-  },
-  {
-    "key": "PMACAMROTSOLNASCFIXA",
-    "latitude": -22.683943,
-    "longitude": -50.431620,
-    "name": "PMA CAM ROT SOL NASC FIXA"
-  },
-  {
-    "key": "PMACAMROTSOLNASCPTZ",
-    "latitude": -22.683993,
-    "longitude": -50.431637,
-    "name": "PMA CAM ROT SOL NASC PTZ"
-  },
-  {
-    "key": "PMAARMANDOSALES320FIXA",
-    "latitude": -22.665222,
-    "longitude": -50.424087,
-    "name": "PMA ARMANDO SALES 320 FIXA"
-  },
-  {
-    "key": "PMAARMANDOSALES320PTZ",
-    "latitude": -22.665218,
-    "longitude": -50.424054,
-    "name": "PMA ARMANDO SALES 320 PTZ"
-  },
-  {
-    "key": "PMACAMSAIDACABRALFIXA",
-    "latitude": -22.675039,
-    "longitude": -50.442380,
-    "name": "PMA CAM SAIDA CABRAL FIXA"
-  },
-  {
-    "key": "PMACAMSAIDACABRALPTZ",
-    "latitude": -22.675037,
-    "longitude": -50.442314,
-    "name": "PMA CAM SAIDA CABRAL  PTZ"
-  },
-  {
-    "key": "PMACAMNOBILARDAVIPASFIXA",
-    "latitude": -22.665888,
-    "longitude": -50.433603,
-    "name": "PMA CAM NOBILAR DAVI PAS FIXA"
-  },
-  {
-    "key": "PMACAMROTPACAEMBUTERRAFIXA",
-    "latitude": -22.660619,
-    "longitude": -50.455528,
-    "name": "PMA CAM ROT PACAEMBU TERRA FIXA"
-  },
-  {
-    "key": "PMACAMROTPACAEMBUTERRAPTZ",
-    "latitude": -22.660677,
-    "longitude": -50.455572,
-    "name": "PMA CAM ROT PACAEMBU TERRA PTZ"
-  },
-  {
-    "key": "PMACAMMARIOVITOXJOAORAMFIXA",
-    "latitude": -22.653096,
-    "longitude": -50.441526,
-    "name": "PMA CAM MARIO VITO X JOAO RAM FIXA"
-  },
-  {
-    "key": "PMACAMMARIOVITOXJOAORAMPTZ",
-    "latitude": -22.653089,
-    "longitude": -50.441425,
-    "name": "PMA CAM MARIO VITO X JOAO RAM PTZ"
-  },
-  {
-    "key": "PMACAMDOMANTONIOCOMTEOTONIOFIXA",
-    "latitude": -22.650041,
-    "longitude": -50.427724,
-    "name": "PMA CAM DOM ANTONIO COM TEOTONIO FIXA"
-  },
-  {
-    "key": "PMACAMRUIBARBOSADERFIXA",
-    "latitude": -22.658095,
-    "longitude": -50.388480,
-    "name": "PMA CAM RUI BARBOSA DER FIXA"
-  },
-  {
-    "key": "PMACAMRUIBARBOSADERPTZ",
-    "latitude": -22.658251,
-    "longitude": -50.388523,
-    "name": "PMA CAM RUI BARBOSA DER PTZ"
-  },
-  {
-    "key": "PMACAMSAOCRISTXPASCSANTFIXA",
-    "latitude": -22.643857,
-    "longitude": -50.425889,
-    "name": "PMA CAM SAO CRIST X PASC SANT FIXA"
-  },
-  {
-    "key": "PMACAMSAOCRISTXPASCSANTPTZ",
-    "latitude": -22.643902,
-    "longitude": -50.425851,
-    "name": "PMA CAM SAO CRIST X PASC SANT PTZ"
-  },
-  {
-    "key": "PMACAMCASACRIANCAFIXA",
-    "latitude": -22.638206,
-    "longitude": -50.419472,
-    "name": "PMA CAM CASA CRIANCA FIXA"
-  },
-  {
-    "key": "PMACAMCASACRIANCAPTZ",
-    "latitude": -22.638266,
-    "longitude": -50.419302,
-    "name": "PMA CAM CASA CRIANCA PTZ"
-  }
+    {
+      "key": "PMACAMFRENTELIMPPUBLICAFIXA",
+      "latitude": -22.663340,
+      "longitude": -50.424275,
+      "name": "PMA CAM FRENTE LIMP PUBLICA FIXA"
+    },
+    {
+      "key": "PMACAMFRENTELIMPPUBLICAPTZ",
+      "latitude": -22.663341,
+      "longitude": -50.424263,
+      "name": "PMA CAM FRENTE LIMP PUBLICA PTZ"
+    },
+    {
+      "key": "PMACAMTREVOPREDIOPAULINHOPTZ",
+      "latitude": -22.674199,
+      "longitude": -50.432213,
+      "name": "PMA CAM TREVO PREDIO PAULINHO PTZ"
+    },
+    {
+      "key": "PMACAMTREVOPREDIOPAULINHOFIXA",
+      "latitude": -22.674274,
+      "longitude": -50.432256,
+      "name": "PMA CAM TREVO PREDIO PAULINHO FIXA"
+    },
+    {
+      "key": "PMACAMCAPELACOLINASFIXA",
+      "latitude": -22.678804,
+      "longitude": -50.433378,
+      "name": "PMA CAM CAPELA COLINAS FIXA"
+    },
+    {
+      "key": "PMACAMCAPELACOLINASPTZ",
+      "latitude": -22.678975,
+      "longitude": -50.433247,
+      "name": "PMA CAM CAPELA COLINAS PTZ"
+    },
+    {
+      "key": "PMACAMROTSOLNASCFIXA",
+      "latitude": -22.683943,
+      "longitude": -50.431620,
+      "name": "PMA CAM ROT SOL NASC FIXA"
+    },
+    {
+      "key": "PMACAMROTSOLNASCPTZ",
+      "latitude": -22.683993,
+      "longitude": -50.431637,
+      "name": "PMA CAM ROT SOL NASC PTZ"
+    },
+    {
+      "key": "PMAARMANDOSALES320FIXA",
+      "latitude": -22.665222,
+      "longitude": -50.424087,
+      "name": "PMA ARMANDO SALES 320 FIXA"
+    },
+    {
+      "key": "PMAARMANDOSALES320PTZ",
+      "latitude": -22.665218,
+      "longitude": -50.424054,
+      "name": "PMA ARMANDO SALES 320 PTZ"
+    },
+    {
+      "key": "PMACAMSAIDACABRALFIXA",
+      "latitude": -22.675039,
+      "longitude": -50.442380,
+      "name": "PMA CAM SAIDA CABRAL FIXA"
+    },
+    {
+      "key": "PMACAMSAIDACABRALPTZ",
+      "latitude": -22.675037,
+      "longitude": -50.442314,
+      "name": "PMA CAM SAIDA CABRAL  PTZ"
+    },
+    {
+      "key": "PMACAMNOBILARDAVIPASFIXA",
+      "latitude": -22.665888,
+      "longitude": -50.433603,
+      "name": "PMA CAM NOBILAR DAVI PAS FIXA"
+    },
+    {
+      "key": "PMACAMROTPACAEMBUTERRAFIXA",
+      "latitude": -22.660619,
+      "longitude": -50.455528,
+      "name": "PMA CAM ROT PACAEMBU TERRA FIXA"
+    },
+    {
+      "key": "PMACAMROTPACAEMBUTERRAPTZ",
+      "latitude": -22.660677,
+      "longitude": -50.455572,
+      "name": "PMA CAM ROT PACAEMBU TERRA PTZ"
+    },
+    {
+      "key": "PMACAMMARIOVITOXJOAORAMFIXA",
+      "latitude": -22.653096,
+      "longitude": -50.441526,
+      "name": "PMA CAM MARIO VITO X JOAO RAM FIXA"
+    },
+    {
+      "key": "PMACAMMARIOVITOXJOAORAMPTZ",
+      "latitude": -22.653089,
+      "longitude": -50.441425,
+      "name": "PMA CAM MARIO VITO X JOAO RAM PTZ"
+    },
+    {
+      "key": "PMACAMDOMANTONIOCOMTEOTONIOFIXA",
+      "latitude": -22.650041,
+      "longitude": -50.427724,
+      "name": "PMA CAM DOM ANTONIO COM TEOTONIO FIXA"
+    },
+    {
+      "key": "PMACAMRUIBARBOSADERFIXA",
+      "latitude": -22.658095,
+      "longitude": -50.388480,
+      "name": "PMA CAM RUI BARBOSA DER FIXA"
+    },
+    {
+      "key": "PMACAMRUIBARBOSADERPTZ",
+      "latitude": -22.658251,
+      "longitude": -50.388523,
+      "name": "PMA CAM RUI BARBOSA DER PTZ"
+    },
+    {
+      "key": "PMACAMSAOCRISTXPASCSANTFIXA",
+      "latitude": -22.643857,
+      "longitude": -50.425889,
+      "name": "PMA CAM SAO CRIST X PASC SANT FIXA"
+    },
+    {
+      "key": "PMACAMSAOCRISTXPASCSANTPTZ",
+      "latitude": -22.643902,
+      "longitude": -50.425851,
+      "name": "PMA CAM SAO CRIST X PASC SANT PTZ"
+    },
+    {
+      "key": "PMACAMCASACRIANCAFIXA",
+      "latitude": -22.638206,
+      "longitude": -50.419472,
+      "name": "PMA CAM CASA CRIANCA FIXA"
+    },
+    {
+      "key": "PMACAMCASACRIANCAPTZ",
+      "latitude": -22.638266,
+      "longitude": -50.419302,
+      "name": "PMA CAM CASA CRIANCA PTZ"
+    }
 ]
