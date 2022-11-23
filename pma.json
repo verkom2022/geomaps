@@ -163,14 +163,14 @@
     },
     {
       "key": "PMACAMRUIBARBOSADERFIXA",
-      "latitude": -22.658095,
-      "longitude": -50.388480,
+      "latitude": -22.660716203559492,
+      "longitude": -50.39546426555321,
       "name": "PMA CAM RUI BARBOSA DER FIXA"
     },
     {
       "key": "PMACAMRUIBARBOSADERPTZ",
-      "latitude": -22.658251,
-      "longitude": -50.388523,
+      "latitude": -22.660736584975236,
+      "longitude": -50.395508438422304,
       "name": "PMA CAM RUI BARBOSA DER PTZ"
     },
     {
@@ -196,5 +196,59 @@
       "latitude": -22.638266,
       "longitude": -50.419302,
       "name": "PMA CAM CASA CRIANCA PTZ"
+    },
+        {
+      "key": "PMACAMDOMANTONIOSAIDAUNESPFIXA",
+      "latitude": -22.64692825062554,
+      "longitude": -50.43770051552039,
+      "name": "PMA CAM DOM ANTONIO SAIDA UNESP FIXA"
+    },
+    {
+      "key": "PMACAMDOMANTONIOSAIDAUNESPPTZ",
+      "latitude": -22.64699818059111,
+      "longitude": -50.43772398484727,
+      "name": "PMA CAM DOM ANTONIO SAIDA UNESP PTZ"
+    },
+    {
+      "key": "PMACAMROTATORIAAMIGAOFIXA",
+      "latitude": -22.65263365536278,
+      "longitude": -50.39229728427237,
+      "name": "PMA CAM ROTATORIA AMIGAO FIXA"
+    },
+    {
+      "key": "PMACAMRODOVIARIAPROXFEMAFIXA",
+      "latitude": -22.64381369134286,
+      "longitude": -50.4186646700211,
+      "name": "PMA CAM RODOVIARIA PROX FEMA FIXA"
+    },
+    {
+      "key": "PMACAMRODOVIARIAPROXFEMAPTZ",
+      "latitude": -22.64389958316878,
+      "longitude": -50.4186504615146,
+      "name": "PMA CAM RODOVIARIA PROX FEMA PTZ"
+    },
+    {
+      "key": "PMACAMROTSAIDACANDIDOMOTAFIXA",
+      "latitude": -22.67167907818863,
+      "longitude": -50.41616028912304,
+      "name": "PMA CAM ROT SAIDA CANDIDO MOTA FIXA"
+    },
+    {
+      "key": "PMACAMROTSAIDACANDIDOMOTAPTZ",
+      "latitude": -22.67162215429777,
+      "longitude": -50.4161931461806,
+      "name": "PMA CAM ROT SAIDA CANDIDO MOTA PTZ"
+    },
+    {
+      "key": "PMACAMUSINARECICLAGEMFIXA",
+      "latitude": -22.68125712580623,
+      "longitude": -50.4131200318255,
+      "name": "PMA CAM USINA RECICLAGEM FIXA"
+    },
+    {
+      "key": "PMACAMUSINARECICLAGEMFIXA",
+      "latitude": -22.68138872935582,
+      "longitude": -50.4130891632012,
+      "name": "PMA CAM USINA RECICLAGEM FIXA"
     }
 ]
