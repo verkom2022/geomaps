@@ -250,5 +250,131 @@
       "latitude": -22.681388,
       "longitude": -50.413089,
       "name": "PMA CAM USINA RECICLAGEM PTZ"
+    },
+    {
+      "key": "PMACAMSAIDAMARILIAFIXA",
+      "latitude": -22.640721,
+      "longitude": -50.404145,
+      "name": "PMA CAM SAIDA MARILIA FIXA"
+    },
+    {
+      "key": "PMACAMSAIDAMARILIAPTZ",
+      "latitude": -22.640643,
+      "longitude": -50.404111,
+      "name": "PMA CAM SAIDA MARILIA PTZ"
+    },
+    {
+      "key": "PMACAMROTATORIAPREVERFIXA",
+      "latitude": -22.646395,
+      "longitude": -50.408364,
+      "name": "PMA CAM ROTATORIA PREVER FIXA"
+    },
+    {
+      "key": "PMACAMROTATORIAPREVERPTZ",
+      "latitude": -22.646341,
+      "longitude": -50.408518,
+      "name": "PMA CAM ROTATORIA PREVER PTZ"
+    },
+    {
+      "key": "PMACAMDOMANTONIOELETRONAMFIXA",
+      "latitude": -22.653075,
+      "longitude": -50.418729,
+      "name": "PMA CAM DOM ANTONIO ELETRONAM FIXA"
+    },
+    {
+      "key": "PMACAMDOMANTONIOELETRONAMPTZ",
+      "latitude": -22.653096,
+      "longitude": -50.418664,
+      "name": "PMA CAM DOM ANTONIO ELETRONAM PTZ"
+    },
+    {
+      "key": "PMACAMROTATORIAPQINDUSTFIXA",
+      "latitude": -22.642237,
+      "longitude": -50.398723,
+      "name": "PMA CAM ROTATORIA PQ INDUST FIXA"
+    },
+    {
+      "key": "PMACAMROTATORIAPQINDUSTPTZ",
+      "latitude": -22.642349,
+      "longitude": -50.398877,
+      "name": "PMA CAM ROTATORIA PQ INDUST PTZ"
+    },
+    {
+      "key": "PMACAMROTATORIAUNIMEDFIXA",
+      "latitude": -22.647981,
+      "longitude": -50.386509,
+      "name": "PMA CAM ROTATORIA UNIMED FIXA"
+    },
+    {
+      "key": "PMACAMROTATORIAUNIMEDPTZ",
+      "latitude": -22.647913,
+      "longitude": -50.386616,
+      "name": "PMA CAM ROTATORIA UNIMED PTZ"
+    },
+    {
+      "key": "PMACAMROTATORIARENASCENCEFIXA",
+      "latitude": -22.658170,
+      "longitude": -50.388386,
+      "name": "PMA CAM ROTATORIA RENASCENCE FIXA"
+    },
+    {
+      "key": "PMACAMROTATORIARENASCENCEPTZ",
+      "latitude": -22.658250,
+      "longitude": -50.388584,
+      "name": "PMA CAM ROTATORIA RENASCENCE PTZ"
+    },
+    {
+      "key": "PMACAMROTATORIASÃOFRANCISCOFIXA",
+      "latitude": -22.661426,
+      "longitude": -50.400505,
+      "name": "PMA CAM ROTATORIA SÃO FRANCISCO FIXA"
+    },
+    {
+      "key": "PMACAMROTATORIABURACAOFIXA",
+      "latitude": -22.659651,
+      "longitude": -50.425588,
+      "name": "PMA CAM ROTATORIA BURACAO FIXA"
+    },
+    {
+      "key": "PMACAMROTATORIABURACAOPTZ",
+      "latitude": -22.659563,
+      "longitude": -50.425656,
+      "name": "PMA CAM ROTATORIA BURACAO PTZ"
+    },
+    {
+      "key": "PMACAMSEMAFOROCENTROESPECFIXA",
+      "latitude": -22.655710,
+      "longitude": -50.418547,
+      "name": "PMA CAM SEMAFORO CENTRO ESPEC FIXA"
+    },
+    {
+      "key": "PMACAMSEMAFOROCENTROESPECPTZ",
+      "latitude": -22.655741,
+      "longitude": -50.418505,
+      "name": "PMA CAM SEMAFORO CENTRO ESPEC PTZ"
+    },
+    {
+      "key": "PMACAMVICFERNANDESXLEONORFIXA",
+      "latitude": -22.673509,
+      "longitude": -50.421232,
+      "name": "PMA CAM VIC FERNANDES X LEONOR FIXA"
+    },
+    {
+      "key": "PMACAMVICFERNANDESXLEONORPTZ",
+      "latitude": -22.673403,
+      "longitude": -50.421199,
+      "name": "PMA CAM VIC FERNANDES X LEONOR PTZ"
+    },
+    {
+      "key": "PMACAMROTINOCOPXPERIMETRALFIXA",
+      "latitude": -22.646872,
+      "longitude": -50.401619,
+      "name": "PMA CAM ROT INOCOP X PERIMETRAL FIXA"
+    },
+    {
+      "key": "PMACAMROTINOCOPXPERIMETRALPTZ",
+      "latitude": -22.646799,
+      "longitude": -50.401752,
+      "name": "PMA CAM ROT INOCOP X PERIMETRAL PTZ"
     }
 ]
