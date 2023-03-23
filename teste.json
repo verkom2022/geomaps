@@ -1,14 +1,8 @@
 [
     {
-      "key": "001.1",
+      "key": "CAM0011",
       "latitude": -22.674199,
       "longitude": -50.432213,
-      "name": "cam001.1"
-    },
-    {
-      "key": "PMACAMTREVOPREDIOPAULINHOFIXA",
-      "latitude": -22.674274,
-      "longitude": -50.432256,
-      "name": "PMA CAM TREVO PREDIO PAULINHO FIXA"
+      "name": "0011"
     }
 ]
