@@ -1,0 +1,134 @@
+[
+    {
+      "key": "01x40",
+      "latitude": -22.9891164,
+      "longitude": -49.8848765,
+      "name": "DUACO 40  ALMOXARIFADO DENTRO"
+    },
+    {
+      "key": "02x40",
+      "latitude": -22.9891164,
+      "longitude": -49.8848765,
+      "name": "DUACO 40 ALMOXARIFADO DENTRO 2"
+    },    
+	{
+      "key": "03x40",
+      "latitude": -22.9891164,
+      "longitude": -49.8848765,
+      "name": "DUACO 40 EXTERIOR ALMOXARIFADO"
+    },    
+	{
+      "key": "04x40",
+      "latitude": -22.9891164,
+      "longitude": -49.8848765,
+      "name": "DUACO 40 FRONTAL ALMOXARIFADO"
+    },    
+	{
+      "key": "05x40",
+      "latitude": -22.9891164,
+      "longitude": -49.8848765,
+      "name": "DUACO 40 ILHA BELA  FUNDOS"
+    },    
+	{
+      "key": "06x40",
+      "latitude": -22.9891164,
+      "longitude": -49.8848765,
+      "name": "DUACO 40 ILHA BELA  PORTARIA"
+    },    
+	{
+      "key": "07x40",
+      "latitude": -22.9891164,
+      "longitude": -49.8848765,
+      "name": "DUACO 40 SPEED DOME"
+    },
+	{
+      "key": "01x41",
+      "latitude": -22.6238289,
+      "longitude": -48.8019991,
+      "name": "DUACO 41 ALMOXARIFADO"
+    },
+	{
+      "key": "02x41",
+      "latitude": -22.6238289,
+      "longitude": -48.8019991,
+      "name": "DUACO 41 BETONEIRA"
+    },
+	{
+      "key": "03x41",
+      "latitude": -22.6238289,
+      "longitude": -48.8019991,
+      "name": "DUACO 41 CONTAINER"
+    },
+	{
+      "key": "04x41",
+      "latitude": -22.6238289,
+      "longitude": -48.8019991,
+      "name": "DUACO 41 ESCRITORIO"
+    },
+	{
+      "key": "05x41",
+      "latitude": -22.6238289,
+      "longitude": -48.8019991,
+      "name": "DUACO 41 SPEED DOME 1"
+    },
+	{
+      "key": "06x41",
+      "latitude": -22.6238289,
+      "longitude": -48.8019991,
+      "name": "DUACO 41 SPEED DOME 2"
+    },
+	{
+      "key": "01x42",
+      "latitude": -22.664295,
+      "longitude": -50.3971886,
+      "name": "DUACO 42 RUA DE BAIXO"
+    },
+	{
+      "key": "02x42",
+      "latitude": -22.664295,
+      "longitude": -50.3971886,
+      "name": "DUACO 42 RUA DE CIMA"
+    },
+	{
+      "key": "01x43",
+      "latitude": -22.6754785,
+      "longitude": -50.4129306,
+      "name": "DUACO 43 ALMOXARIFADO 1"
+    },
+	{
+      "key": "02x43",
+      "latitude": -22.6754785,
+      "longitude": -50.4129306,
+      "name": "DUACO 43 ALMOXARIFADO 2"
+    },
+	{
+      "key": "03x43",
+      "latitude": -22.6754785,
+      "longitude": -50.4129306,
+      "name": "DUACO 43 RUA 1"
+    },
+	{
+      "key": "04x43",
+      "latitude": -22.6754785,
+      "longitude": -50.4129306,
+      "name": "DUACO 43 RUA 2"
+    },
+	{
+      "key": "05x43",
+      "latitude": -22.6754785,
+      "longitude": -50.4129306,
+      "name": "DUACO 43 SPEED DOME"
+    },
+	{
+      "key": "06x43",
+      "latitude": -22.6754785,
+      "longitude": -50.4129306,
+      "name": "DUACO 43 SPEED DOME 2"
+    },
+	{
+      "key": "01x44",
+      "latitude": -22.6480611,
+      "longitude": -50.3896409,
+      "name": "DUACO 44 SPEED DOME"
+    }
+]
